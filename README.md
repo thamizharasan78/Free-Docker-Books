@@ -26,8 +26,6 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * DevOps - Puppet, Docker, and Kubernetes [[Download]](/book/DevOps%20-%20Puppet%2C%20Docker%2C%20and%20Kubernetes.pdf)
 * DevOps with Kubernetes [[Download]](/book/DevOps%20with%20Kubernetes.azw3)
 * Docker - Creating Structured Containers [[Download]](/book/Docker%20-%20Creating%20Structured%20Containers.pdf)
-* Docker - Up & Running [[Download]](/book/Docker%20-%20Up%20%26%20Running.pdf)
-* Docker Up & Running 2nd - 2018 [[Download]](/book/Docker%20Up%20%26%20Running%202nd%20-%202018.pdf)
 * Docker - 从入门到实践 [[Download]](/book/Docker%20-%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
 * Docker and Kubernetes for Java Developers [[Download]](/book/Docker%20and%20Kubernetes%20for%20Java%20Developers.epub)
 * Docker Bootcamp [[Download]](/book/Docker%20Bootcamp.pdf)
